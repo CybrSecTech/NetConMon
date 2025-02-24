@@ -1,3 +1,7 @@
+# NetConMon Requirements
+# Requires Python 3.7 or higher
+
 psutil>=5.9.0
 Pillow>=9.0.0
+# tkinter is included in Python standard library, but some systems may need:
 tk>=0.1.0
