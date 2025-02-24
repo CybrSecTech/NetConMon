@@ -7,4 +7,4 @@ GNU GENERAL PUBLIC LICENSE
 
 NetConMon is covered by the GNU General Public License Version 3.
 
-The complete license text is available in the COPYING.txt file included with this software.
+The complete license text is available in the LICENSE file included with this software.
